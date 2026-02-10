@@ -1,1 +1,1 @@
-# CPYMine
+# CPYMiner
